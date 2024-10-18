@@ -58,6 +58,8 @@ A GTK-based Software Manager that provides a graphical interface for managing pa
 - [ ] **Issue 6**: Show a warning when installing from AUR.
 - [ ] **Issue 7**: Add package search functionality (e.g., via `yay -Ss`).
 
+### Contact
+6366250274 for any queries or assistance
 ### Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
